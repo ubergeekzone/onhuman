@@ -1,0 +1,6 @@
+{
+    "require": {
+        "sleiman/airtable-php": "^2.4",
+        "rmccue/requests": "^1.8"
+    }
+}
